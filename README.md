@@ -20,3 +20,5 @@ Diseñado para integrarse con [`rigo-ai-assistant-ui`](https://github.com/RigoMC
 - **TypeScript**
 - **Supabase**
 
+## Deploy:
+https://rigo-ai-assistant-api.vercel.app/
