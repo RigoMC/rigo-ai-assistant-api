@@ -1,0 +1,37 @@
+Asistente de inteligencia artificial.
+Un asistente de inteligencia artificial es un programa que entiende lenguaje natural.
+Un asistente de inteligencia artificial responde preguntas o realiza tareas.
+Los asistentes de IA usan modelos de lenguaje y procesamiento de datos.
+
+Ejemplos de asistentes de inteligencia artificial.
+Ejemplos: ChatGPT de OpenAI, Google Assistant, Alexa de Amazon, Siri de Apple, Copilot de Microsoft.
+Cada asistente de IA tiene funciones distintas, pero todos procesan solicitudes del usuario.
+
+Funcionamiento de un asistente de inteligencia artificial.
+El usuario envía una pregunta o comando al asistente.
+El asistente de IA interpreta el lenguaje y entiende la intención.
+El asistente busca información en su base de datos o en internet.
+El asistente devuelve una respuesta o realiza una acción solicitada.
+
+Tipos de asistentes de inteligencia artificial.
+Asistente de IA basado en texto: responde solo con texto, ejemplo ChatGPT.
+Asistente de IA basado en voz: responde a comandos de voz, ejemplo Alexa o Siri.
+Asistente de IA multimodal: entiende texto, voz e imágenes.
+
+Ventajas de un asistente de inteligencia artificial.
+Un asistente de IA responde rápido.
+Un asistente de IA está disponible todo el tiempo.
+Un asistente de IA maneja gran cantidad de información.
+Un asistente de IA puede personalizar respuestas según el usuario.
+
+Limitaciones de un asistente de inteligencia artificial.
+Un asistente de IA puede dar respuestas incorrectas.
+Un asistente de IA depende de la información con la que fue entrenado.
+Un asistente de IA puede tener problemas de privacidad si no se cuidan los datos.
+
+Aplicaciones de un asistente de inteligencia artificial.
+Un asistente de IA puede ayudar en atención al cliente.
+Un asistente de IA puede ayudar en programación y desarrollo.
+Un asistente de IA puede buscar información en internet.
+Un asistente de IA puede organizar tareas y recordatorios.
+Un asistente de IA puede traducir idiomas.
